@@ -4,6 +4,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+/node_modules
+# Angular CLI cache directory
+.angular/
 
 ### STS ###
 .apt_generated
